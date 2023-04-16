@@ -22,7 +22,7 @@ const Header = () => {
             className="bg-violet-700 hover:bg-violet-800 text-white px-4 py-3 rounded-lg transition"
             to=""
           >
-            Sign up
+            Up
           </Link>
         </div>
       </div>
